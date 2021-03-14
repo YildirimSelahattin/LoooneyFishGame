@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: df90abf75cdd28e4f9e2ab3205b3888b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4529007985848494396
+    second: SailAnimation-export_0
+  - first:
+      213: 4775754309805849483
+    second: SailAnimation-export_1
+  - first:
+      213: 4723455292225275932
+    second: SailAnimation-export_2
+  - first:
+      213: 2040375577467541834
+    second: SailAnimation-export_3
+  - first:
+      213: -8716005426374747111
+    second: SailAnimation-export_4
+  - first:
+      213: 9120033049187728068
+    second: SailAnimation-export_5
+  - first:
+      213: 4783597856606367057
+    second: SailAnimation-export_6
+  - first:
+      213: 5407909112045094444
+    second: SailAnimation-export_7
+  - first:
+      213: -1595887117225836623
+    second: SailAnimation-export_8
+  - first:
+      213: 2846197568933670237
+    second: SailAnimation-export_9
+  - first:
+      213: 834670420529303029
+    second: SailAnimation-export_10
+  - first:
+      213: -8510664092389426164
+    second: SailAnimation-export_11
+  - first:
+      213: -8550695317007662822
+    second: SailAnimation-export_12
+  - first:
+      213: 6206303924132711051
+    second: SailAnimation-export_13
+  - first:
+      213: 3855958282822434670
+    second: SailAnimation-export_14
+  - first:
+      213: -2992895923644517520
+    second: SailAnimation-export_15
+  - first:
+      213: 8895275535569144793
+    second: SailAnimation-export_16
+  - first:
+      213: -6875025896474973558
+    second: SailAnimation-export_17
+  - first:
+      213: 8348947342910855682
+    second: SailAnimation-export_18
+  - first:
+      213: -6667265569571307822
+    second: SailAnimation-export_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SailAnimation-export_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 4257
+        width: 466
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6d79a8b3bb521c0800000000000000
+      internalID: -4529007985848494396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_1
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 4257
+        width: 456
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb482ed33e64240800000000000000
+      internalID: 4775754309805849483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_2
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4267
+        width: 434
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c685ff851d8140800000000000000
+      internalID: 4723455292225275932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_3
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 4267
+        width: 415
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d55ff6ced05c10800000000000000
+      internalID: 2040375577467541834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_4
+      rect:
+        serializedVersion: 2
+        x: 5588
+        y: 4257
+        width: 393
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5e8c7e378a0780800000000000000
+      internalID: -8716005426374747111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2979
+        width: 394
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca38acfcbdd09e70800000000000000
+      internalID: 9120033049187728068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_6
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2988
+        width: 416
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da75fe7e0c26240800000000000000
+      internalID: 4783597856606367057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_7
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2988
+        width: 434
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26cb016fa0cc0b40800000000000000
+      internalID: 5407909112045094444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_8
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 2979
+        width: 456
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfb12c4f154ad9e0800000000000000
+      internalID: -1595887117225836623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_9
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 2979
+        width: 462
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d2fd0fb99bf7720800000000000000
+      internalID: 2846197568933670237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1707
+        width: 466
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdcc204358559b00800000000000000
+      internalID: 834670420529303029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_11
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1707
+        width: 456
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb472791c04e980800000000000000
+      internalID: -8510664092389426164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_12
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1697
+        width: 403
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a118927a9e3d55980800000000000000
+      internalID: -8550695317007662822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_13
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 1697
+        width: 406
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a0b0e5988312650800000000000000
+      internalID: 6206303924132711051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_14
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 1707
+        width: 375
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3b54e0ad138530800000000000000
+      internalID: 3855958282822434670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 428
+        width: 375
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0733475b3091776d0800000000000000
+      internalID: -2992895923644517520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_16
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 419
+        width: 406
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db42dc68fd527b70800000000000000
+      internalID: 8895275535569144793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_17
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 419
+        width: 403
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a6ff26f500790a0800000000000000
+      internalID: -6875025896474973558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_18
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 428
+        width: 456
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a94aeaf5b6dd370800000000000000
+      internalID: 8348947342910855682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SailAnimation-export_19
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 428
+        width: 462
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de72860a4d1973a0800000000000000
+      internalID: -6667265569571307822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
